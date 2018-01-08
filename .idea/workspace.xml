@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09eee5ad-764f-433d-b9f0-6ec03265d3b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record3.txt" afterPath="$PROJECT_DIR$/record3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record4.txt" afterPath="$PROJECT_DIR$/record4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record1.txt" afterPath="$PROJECT_DIR$/record1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record2.txt" afterPath="$PROJECT_DIR$/record2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/final_project/Field.java" afterPath="$PROJECT_DIR$/src/main/java/final_project/Field.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/final_project/Formation.java" afterPath="$PROJECT_DIR$/src/main/java/final_project/Formation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,7 +21,7 @@
       <file leaf-file-name="Creature.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Creature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
+            <state relative-caret-position="1007">
               <caret line="133" column="20" lean-forward="false" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
               <folding>
                 <element signature="e#656#657#0" expanded="true" />
@@ -30,21 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Formation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Formation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Formation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="43" column="63" lean-forward="true" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Field.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Field.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1697">
-              <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+            <state relative-caret-position="302">
+              <caret line="328" column="34" lean-forward="true" selection-start-line="328" selection-start-column="34" selection-end-line="328" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#13428#13429#0" expanded="true" />
@@ -173,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Creature.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Grasses.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/final_project/Formation.java" />
         <option value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar!/com/apple/laf/AquaPanelUI.class" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Location.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Huluwa.java" />
@@ -186,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/main/java/final_project/Creature.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Field.java" />
+        <option value="$PROJECT_DIR$/src/main/java/final_project/Formation.java" />
       </list>
     </option>
   </component>
@@ -502,7 +503,7 @@
       <updated>1515244577429</updated>
       <workItem from="1515244581135" duration="9762000" />
       <workItem from="1515310803388" duration="21272000" />
-      <workItem from="1515387629717" duration="25580000" />
+      <workItem from="1515387629717" duration="25820000" />
     </task>
     <servers />
   </component>
@@ -515,10 +516,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56614000" />
+    <option name="totallyTimeSpent" value="56854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -529,7 +531,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.503125" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3397524" sideWeight="0.496875" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3397524" sideWeight="0.496875" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -854,25 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Formation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Creature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="133" column="20" lean-forward="false" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
-          <folding>
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -887,8 +870,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1697">
-          <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        <state relative-caret-position="302">
+          <caret line="328" column="34" lean-forward="true" selection-start-line="328" selection-start-column="34" selection-end-line="328" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#13428#13429#0" expanded="true" />
@@ -904,6 +887,25 @@
             <element signature="e#14208#14209#0" expanded="true" />
             <element signature="e#14238#14239#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Creature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="133" column="20" lean-forward="false" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+          <folding>
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="43" column="63" lean-forward="true" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>

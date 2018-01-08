@@ -316,8 +316,8 @@ public class Field extends JPanel {
         is_end = false;
 
 
-        Snake_formation huluwas = new Snake_formation(8, 1, new Huluwa().huluwas, this);
-        Goose_formation evils = new Goose_formation(1, 1, new Scorpion_Entity(), this);
+        Snake_formation huluwas = new Snake_formation(8, 0, new Huluwa().huluwas, this);
+        Goose_formation evils = new Goose_formation(1, 0, new Scorpion_Entity(), this);
 //        Single_formation grandpa = new Single_formation(9, 5, new Grandpa_Entity(), this);
 //        Single_formation scorpion = new Single_formation(2, 4, new LS_Entity(), this);
 //        Single_formation snake = new Single_formation(4, 2, new Snake_Entity(), this);

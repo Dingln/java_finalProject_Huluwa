@@ -28,17 +28,20 @@ class Snake_formation extends Formation {
     Snake_formation(int border_x, int border_y, Vector<? extends Creature> entities, Field field) {
         super(border_x, border_y, field);
 
-        int size = entities.size();
+        int size = entities.size() + 1;
 
         players = new Vector<>(size);
 
         int x = border_x;
         int y = border_y;
-        for(int i = 0; i < size; i++) {
+        for(int i = 0; i < size - 1; i++) {
             players.add(new Player(myfield));  // TO opt
             players.get(i).set_location(x, y++);
             players.get(i).set_creature(entities.get(i));
         }
+        players.add(new Player(myfield));  // TO opt
+        players.get(size-1).set_location(x, y++);
+        players.get(size-1).set_creature(new Grandpa_Entity());
     }
 
     public void set_creature(Vector<? extends Creature> entities) {
