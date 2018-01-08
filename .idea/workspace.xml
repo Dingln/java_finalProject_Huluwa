@@ -4,7 +4,6 @@
     <list default="true" id="09eee5ad-764f-433d-b9f0-6ec03265d3b2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record1.txt" afterPath="$PROJECT_DIR$/record1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record2.txt" afterPath="$PROJECT_DIR$/record2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/final_project/Field.java" afterPath="$PROJECT_DIR$/src/main/java/final_project/Field.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/final_project/Formation.java" afterPath="$PROJECT_DIR$/src/main/java/final_project/Formation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,8 +33,8 @@
       <file leaf-file-name="Formation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Formation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="43" column="63" lean-forward="true" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+            <state relative-caret-position="489">
+              <caret line="74" column="63" lean-forward="false" selection-start-line="74" selection-start-column="63" selection-end-line="74" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -503,7 +502,7 @@
       <updated>1515244577429</updated>
       <workItem from="1515244581135" duration="9762000" />
       <workItem from="1515310803388" duration="21272000" />
-      <workItem from="1515387629717" duration="25820000" />
+      <workItem from="1515387629717" duration="25982000" />
     </task>
     <servers />
   </component>
@@ -516,7 +515,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56854000" />
+    <option name="totallyTimeSpent" value="57016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -903,8 +902,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Formation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="43" column="63" lean-forward="true" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+        <state relative-caret-position="489">
+          <caret line="74" column="63" lean-forward="false" selection-start-line="74" selection-start-column="63" selection-end-line="74" selection-end-column="63" />
           <folding />
         </state>
       </provider>

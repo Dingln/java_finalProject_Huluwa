@@ -62,11 +62,17 @@ class Goose_formation extends Formation {
         players = new Vector<>(size);
 
         try {
-            for(int i = 0; i < size; i++) {
+            for(int i = 0; i < size-2; i++) {
                 players.add(new Player(myfield));
                 players.get(i).set_location(x++, y++);
                 players.get(i).set_creature(entity.clone());
             }
+            players.add(new Player(myfield));
+            players.get(size-2).set_location(x++, y++);
+            players.get(size-2).set_creature(new LS_Entity());
+            players.add(new Player(myfield));
+            players.get(size-1).set_location(x++, y++);
+            players.get(size-1).set_creature(new Snake_Entity());
         }catch (Exception ex) {
             ex.printStackTrace();
         }
