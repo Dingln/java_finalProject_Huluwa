@@ -70,3 +70,7 @@
 	* 打开文件选择对话框，选择一个记录文件；
 	* `File_Chooser `的`actionPerformed`：新建`Move_record`实例，建立一个实现接收`Move_record`实例
 	* `Move_record `的`run`方法调用`Filed`类的`move_record `，根据文件记录内容，依次调用玩家执行其`move`方法。
+
+**程序结构:**
+
+* 测试了类`Field`的`initWorld `方法，测试了`field`的空位置与所有玩家的数量和是否为战场大小。

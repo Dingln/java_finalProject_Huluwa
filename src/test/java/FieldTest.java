@@ -9,7 +9,7 @@ public class FieldTest {
 
     @Test
     public void testinitWorld() throws Exception{
-        Field testfield = new Field(12, 10);
+        Field testfield = new Field(12, 8);
         testfield.initWorld();
 
         int count1 = 0, count2 = 0;
@@ -20,6 +20,6 @@ public class FieldTest {
             for(int j = 0; j < testfield.getH(); j++)
                 if(testfield.getField()[i][j] == null)
                     count2++;
-        assertEquals(120, count1 + count2);
+        assertEquals(96, count1 + count2);
     }
 }

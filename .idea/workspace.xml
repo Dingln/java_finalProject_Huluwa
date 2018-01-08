@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09eee5ad-764f-433d-b9f0-6ec03265d3b2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/FieldTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record1.txt" afterPath="$PROJECT_DIR$/record1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/final_project/Field.java" afterPath="$PROJECT_DIR$/src/main/java/final_project/Field.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/FieldTest.java" afterPath="$PROJECT_DIR$/src/test/java/FieldTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Field.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Field.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="402" column="0" lean-forward="true" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="428" column="5" lean-forward="false" selection-start-line="428" selection-start-column="5" selection-end-line="428" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#13860#13861#0" expanded="true" />
@@ -64,11 +65,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="FieldTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FieldTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="File_Chooser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/File_Chooser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="507">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+              <caret line="38" column="9" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#330#331#0" expanded="true" />
@@ -82,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Move_record.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#268#269#0" expanded="true" />
                 <element signature="e#305#306#0" expanded="true" />
@@ -179,13 +192,13 @@
         <option value="$PROJECT_DIR$/src/main/java/final_project/Move_record.java" />
         <option value="$PROJECT_DIR$/src/test/java/package-info.java" />
         <option value="$PROJECT_DIR$/src/test/java/initWorldTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FieldTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Creature.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Formation.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/File_Chooser.java" />
         <option value="$PROJECT_DIR$/src/main/java/final_project/Field.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FieldTest.java" />
       </list>
     </option>
   </component>
@@ -295,6 +308,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Huluwa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Huluwa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="junit-4.12.jar" type="ab9368bb:PsiFileNode" />
             </path>
           </expand>
           <select />
@@ -502,7 +522,7 @@
       <updated>1515244577429</updated>
       <workItem from="1515244581135" duration="9762000" />
       <workItem from="1515310803388" duration="21272000" />
-      <workItem from="1515387629717" duration="30852000" />
+      <workItem from="1515387629717" duration="31336000" />
     </task>
     <servers />
   </component>
@@ -515,7 +535,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61886000" />
+    <option name="totallyTimeSpent" value="62370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -800,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FieldTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Location.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -841,7 +851,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Move_record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#268#269#0" expanded="true" />
             <element signature="e#305#306#0" expanded="true" />
@@ -885,7 +895,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/File_Chooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <caret line="38" column="9" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#330#331#0" expanded="true" />
@@ -896,8 +906,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/final_project/Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="402" column="0" lean-forward="true" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="428" column="5" lean-forward="false" selection-start-line="428" selection-start-column="5" selection-end-line="428" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#13860#13861#0" expanded="true" />
@@ -912,6 +922,16 @@
             <element signature="e#14379#14380#0" expanded="true" />
             <element signature="e#14640#14641#0" expanded="true" />
             <element signature="e#14670#14671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
