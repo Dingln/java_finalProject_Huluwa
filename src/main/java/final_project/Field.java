@@ -207,7 +207,7 @@ public class Field extends JPanel {
             }
             else {
                 dead(player);
-//                dead(field[cx][cy]);
+                dead(field[cx][cy]);
                 field[cx][cy] = null;
                 return 0;
             }
