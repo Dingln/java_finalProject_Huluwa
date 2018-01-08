@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09eee5ad-764f-433d-b9f0-6ec03265d3b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record1.txt" afterPath="$PROJECT_DIR$/record1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record2.txt" afterPath="$PROJECT_DIR$/record2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/final_project/Formation.java" afterPath="$PROJECT_DIR$/src/main/java/final_project/Formation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -502,7 +500,7 @@
       <updated>1515244577429</updated>
       <workItem from="1515244581135" duration="9762000" />
       <workItem from="1515310803388" duration="21272000" />
-      <workItem from="1515387629717" duration="25982000" />
+      <workItem from="1515387629717" duration="26328000" />
     </task>
     <servers />
   </component>
@@ -515,7 +513,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57016000" />
+    <option name="totallyTimeSpent" value="57362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
