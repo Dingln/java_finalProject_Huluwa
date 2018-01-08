@@ -28,6 +28,7 @@ public class Field extends JPanel {
     public Scanner input;
     private final int OFFSET = 80;
 
+
     private Field myfield = this;
     private Image succeed_image;
 
@@ -392,18 +393,27 @@ public class Field extends JPanel {
                         exec.execute(unit);
                 exec.shutdown();
             }
-//            else if(key == KeyEvent.VK_R) {
-//                is_record = true;
-//                ExecutorService exec = Executors.newCachedThreadPool();
-//                try {
-//                    exec.execute(new Move_record(myfield));
-//                }catch (Exception ex) {
-//                    ex.printStackTrace();
-//                }
-//                finally {
-//                    exec.shutdown();
-//                }
-//            }
+            else if(key == KeyEvent.VK_L) {
+                JFileChooser jfc=new JFileChooser();
+                jfc.setFileSelectionMode(JFileChooser.FILES_ONLY );
+                jfc.setCurrentDirectory(new File("./"));
+                jfc.showDialog(new JLabel(), "选择");
+                myfield.readfile = jfc.getSelectedFile();
+                System.out.println("open" + jfc.getSelectedFile().getName());
+
+                myfield.initWorld();
+                myfield.setStart(false);
+                myfield.setIs_record(true);
+                ExecutorService exec = Executors.newCachedThreadPool();
+                try {
+                    exec.execute(new Move_record(myfield));
+                }catch (Exception ex) {
+                    ex.printStackTrace();
+                }
+                finally {
+                    exec.shutdown();
+                }
+            }
 
             repaint();
         }
